@@ -1,4 +1,4 @@
-## Oiii eu sou o João Vítor Sandini Beutler!
+## Oii, eu sou o João Vítor Sandini Beutler!
 <div align="center">
   <a href="https://github.com/joaovbeutler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovbeutler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
